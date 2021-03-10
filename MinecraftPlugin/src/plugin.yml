@@ -1,0 +1,10 @@
+name: Tutorial
+main: kamilkoziol.tutorial.Main
+version: 0.0.1
+description: A basic plugin
+commands:
+  hello:
+    description: Powitanie
+  launch:
+    description: Do gory!
+    aliases: lch

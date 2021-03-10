@@ -1,0 +1,6 @@
+main: com.kamilkoziol.Main
+name: DeathSwap
+version: 0.0.1
+commands:
+  deathswap:
+    description: Death Swap Every 5 Minutes!
